@@ -1,2 +1,5 @@
 # HelloWorld_Lab
-![Screenshot](https://github.com/leonikaandreeva96/HelloWorld_Lab/tree/master/pictures/Screen.png)
+![](pictures/Screen.png)
+<br>
+<img height 300 src = "https://github.com/leonikaandreeva96/HelloWorld_Lab/blob/master/pictures/Screen.png"/>
+<br>
